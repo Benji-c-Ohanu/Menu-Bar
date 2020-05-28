@@ -1,4 +1,5 @@
 #MENU BAR
+
 This file contains a static webpage that illustrates the representation of a menu bar and it's drop-down menu upon hovering the options.
 
 TECHNOLOGIES 
